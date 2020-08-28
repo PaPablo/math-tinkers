@@ -19,5 +19,12 @@ kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels).
 
 Feel free to clone or fork this project and contribute with new experiments.
 
-**Note for contributors:** Please contain a subject or experiment to a single
-notebook. If you need more files, please create a folder for them.
+## Note for contributors
+
+Please contain each subject or experiment to its own folder, so you can add
+config files, some code, dependencies specifications, etc, and things don't get
+mixed up.
+
+Also feel free to add a description of the subject treated in the project, a
+wikipedia link will sufice, so people know what it's about and know where to
+look for more info about the subject.
